@@ -24,10 +24,29 @@ public class Day02_14 {
      */
 
     /* ActiveJDBC
+    table name : tests
+    class name : test
     1)select
-        1.
+        1. Test test = new Test();
+        2. test.find();
+        2-1. 찾는 값이 다수인 경우 : list
+        2-2. 찾는 값이 단일인 경우 : class
 
+     2)insert
+        1. Test test = new Test();
+        2. test.set("컬럼" , value);
+        3-1. test.insert();
+        3-2. test.insertIt();
 
+     3)update
+        1. Test test = Test.find("where pk = ?", pk);
+        2. test.set("컬럼" , value);
+        3-1. test.save();
+        3-2. test.saveIt();
+
+     4)delete
+        1. Test test = Test.find("where pk = ?", pk);
+        2. test.delete();
 
     */
 
@@ -40,6 +59,6 @@ public class Day02_14 {
     Q3) ActiveJDBC대신 hibernate를 사용하는 것은?
 
     */
-    
-    
+
+
 }
