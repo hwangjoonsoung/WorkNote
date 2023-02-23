@@ -1,17 +1,17 @@
-import java.sql.Timestamp;
-import java.util.Date;
-import java.util.HashMap;
-import java.util.Map;
+import java.util.*;
 
 public class TestClass {
 
     public static void main(String[] args) {
 
 
-
-        //1 date를 가져오고
-        //2 가져온 date를 timestamp로 변환
-        //3 timestamp를 연산
+        Map map = new HashMap();
+        map.put(1,"test");
+        map.put(2,"test");
+        map.put(3,"test");
+        map.put(4,"test");
+        map.put(5,"test");
+        System.out.println(map.get(6));
 
     }
 
