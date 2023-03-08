@@ -1,3 +1,5 @@
+import java.sql.Date;
+import java.time.ZoneId;
 import java.util.*;
 
 public class TestClass {
@@ -5,13 +7,9 @@ public class TestClass {
     public static void main(String[] args) {
 
 
-        Map map = new HashMap();
-        map.put(1,"test");
-        map.put(2,"test");
-        map.put(3,"test");
-        map.put(4,"test");
-        map.put(5,"test");
-        System.out.println(map.get(6));
+        java.sql.Date now = new Date(new java.util.Date());
+        System.out.println(now.toInstant().atZone(ZoneId.systemDefault()).toLocalDateTime());
+
 
     }
 
