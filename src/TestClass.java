@@ -6,10 +6,8 @@ public class TestClass {
 
     public static void main(String[] args) {
 
-
-        java.sql.Date now = new Date(new java.util.Date());
-        System.out.println(now.toInstant().atZone(ZoneId.systemDefault()).toLocalDateTime());
-
+        String s = "3d939b8a32d9e0138935522f8c524b3fbe2d5cc39bf6a2c04805f890b11f3bdb";
+        System.out.println(s.length());
 
     }
 
