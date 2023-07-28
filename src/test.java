@@ -1,21 +1,17 @@
-import java.io.File;
-import java.text.SimpleDateFormat;
+import com.sun.org.apache.xalan.internal.xsltc.dom.SortingIterator;
+
 import java.time.LocalDate;
-import java.time.LocalDateTime;
-import java.time.format.DateTimeFormatter;
 import java.util.*;
 
 public class test {
 
     public static void main(String[] args) {
 
-        String p = "1,2,3,4,5,6,7,7";
-        String [] pArr = p.split(",");
-        Set<String> pList = new HashSet<>(Arrays.asList(pArr));
-        System.out.println(pList);
+        LocalDate now = LocalDate.now();
+        LocalDate now2 = LocalDate.now().plusDays(2);
+        System.out.println(now);
+        System.out.println(now2);
+        System.out.println(now.compareTo(now2));
 
+}}
 
-    }
-
-
-}
