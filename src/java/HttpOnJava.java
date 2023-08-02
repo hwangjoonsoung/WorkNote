@@ -76,7 +76,6 @@ public class PayAcceptController extends HttpServlet {
             // URL 객체 생성
             url = new URL(Accept_API_URL);
 
-            // HttpURLConnection 객체 생성
             conn = (HttpURLConnection) url.openConnection();
             conn.setRequestMethod("POST");
 

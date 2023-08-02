@@ -1,6 +1,6 @@
 package java;
 
-public class Day02_20 {
+public class EditHashMapDataUsingLamda {
 
 
     /*

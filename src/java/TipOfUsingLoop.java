@@ -1,6 +1,6 @@
 package java;
 
-public class Day03_06 {
+public class TipOfUsingLoop {
 
 
     /*
