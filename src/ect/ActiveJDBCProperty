@@ -1,0 +1,10 @@
+
+새로운 테이블을 생성하고 model을 추가했는데 안되는 경우가 있다.
+이것은 ActiveJDBC의 문제인데.
+ActiveJDBC.property에 생성한 table에 대한 default 값이 없기 때문이다.
+따라서 추가를 해줘야 하는데.
+
+maven에 있는 activejdbc-instrumentation을 사용해 Model 클레스를 상속받는 클레스를 property에 추가한다.
+이것을 file zilla를 이용해서 적용하기만 하면 된다.
+
+위치는 target/class에 있다.

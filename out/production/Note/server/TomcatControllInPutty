@@ -1,0 +1,6 @@
+systemctl restart tomcat : 서버 재시작 ()
+
+-- tomcat log 확인
+1. su 입력 : root 계정으로 접속
+2. opt/tomcat/logs : 파일 오픈
+3. tail -f catalina.out : tail(마지막부분) -f(follow 실시간 출력)  파일명 

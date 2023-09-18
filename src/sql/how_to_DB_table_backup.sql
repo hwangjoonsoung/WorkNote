@@ -1,7 +1,3 @@
-package java;
-
-public class how_to_DB_table_backup {
-    
 
     /*
     1. table create and insert 
@@ -16,4 +12,3 @@ public class how_to_DB_table_backup {
      */
     
     
-}
