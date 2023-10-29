@@ -2,20 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3425c2c3-664d-4ca7-aec8-77bf3862568a" name="Changes" comment="Day 05 25">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/server/TomcatControllInPutty" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Note.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Note.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/java/Day02_14.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/java/Day02_15.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/java/Day02_17.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/java/Day02_20.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/java/Day03_06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/java/how_to_DB_table_backup.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Note/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/how_to_DB_table_backup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sql/how_to_DB_table_backup.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/StringJoin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Note/StringJoin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/server/TomcatControllInPutty" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Note/server/TomcatControllInPutty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/tzzzzz$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/tzzzzz.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Note/tzzzzz.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyRunnableThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyRunnableThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringJoin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringJoin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/UsingGenericInClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/UsingGenericInClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,8 +21,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="Kotlin File" />
+        <option value="JavaScript File" />
         <option value="Class" />
       </list>
     </option>
@@ -50,7 +45,7 @@
   <component name="ProjectId" id="2LiUbh0b6qV0lyeL7eaUcin7aNx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="flattenPackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
@@ -60,10 +55,12 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/workspace/cricit_conf/kicemconf&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/workspace/cricit_conf/kciconf&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   },
   &quot;keyToStringList&quot;: {
     &quot;DatabaseDriversLRU&quot;: [
@@ -84,7 +81,7 @@
       <recent name="C:\Users\crew2022\Desktop\intelliJ\Note\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.test">
+  <component name="RunManager" selected="Application.testclass">
     <configuration name="EnumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EnumTest" />
       <module name="Note" />
@@ -112,6 +109,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="testclass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testclass" />
+      <module name="Note" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="tzzzzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tzzzzz" />
       <module name="Note" />
@@ -119,28 +123,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TESTKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TESTKt" />
-      <module name="Note" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.testclass" />
       <item itemvalue="Application.EnumTest" />
       <item itemvalue="Application.StringJoin" />
       <item itemvalue="Application.tzzzzz" />
       <item itemvalue="Application.test" />
-      <item itemvalue="Kotlin.TESTKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.testclass" />
+        <item itemvalue="Application.tzzzzz" />
+        <item itemvalue="Application.StringJoin" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.EnumTest" />
-        <item itemvalue="Application.StringJoin" />
-        <item itemvalue="Application.tzzzzz" />
-        <item itemvalue="Kotlin.TESTKt" />
       </list>
     </recent_temporary>
   </component>
@@ -314,7 +311,30 @@
       <workItem from="1693903346087" duration="273000" />
       <workItem from="1693960235590" duration="2967000" />
       <workItem from="1694064011541" duration="1862000" />
-      <workItem from="1695027750418" duration="11000" />
+      <workItem from="1695027750418" duration="674000" />
+      <workItem from="1695271698863" duration="6348000" />
+      <workItem from="1695281199688" duration="626000" />
+      <workItem from="1695685994353" duration="239000" />
+      <workItem from="1696388423337" duration="651000" />
+      <workItem from="1696464223856" duration="3894000" />
+      <workItem from="1696499236805" duration="404000" />
+      <workItem from="1696500941087" duration="2093000" />
+      <workItem from="1696897475648" duration="2499000" />
+      <workItem from="1696924462271" duration="2944000" />
+      <workItem from="1697073285612" duration="2263000" />
+      <workItem from="1697776042206" duration="641000" />
+      <workItem from="1698022737282" duration="950000" />
+      <workItem from="1698027437536" duration="1272000" />
+      <workItem from="1698128887959" duration="1404000" />
+      <workItem from="1698130986707" duration="616000" />
+      <workItem from="1698193254516" duration="606000" />
+      <workItem from="1698196832408" duration="2109000" />
+      <workItem from="1698209621352" duration="643000" />
+      <workItem from="1698216961089" duration="350000" />
+      <workItem from="1698217448049" duration="37000" />
+      <workItem from="1698219285788" duration="5600000" />
+      <workItem from="1698391595683" duration="2434000" />
+      <workItem from="1698621752130" duration="45000" />
     </task>
     <task id="LOCAL-00001" summary="Day 03 29">
       <created>1680076933195</created>

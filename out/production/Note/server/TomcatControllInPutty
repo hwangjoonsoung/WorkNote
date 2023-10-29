@@ -2,5 +2,12 @@ systemctl restart tomcat : 서버 재시작 ()
 
 -- tomcat log 확인
 1. su 입력 : root 계정으로 접속
-2. opt/tomcat/logs : 파일 오픈
-3. tail -f catalina.out : tail(마지막부분) -f(follow 실시간 출력)  파일명 
+2. opt/tomcat/logs : 폴더 오픈
+3. tail -f catalina.out : tail(마지막부분) -f(follow 실시간 출력)  파일명
+
+-- server setting
+0. 최상위 폴더 생성 (mkdir [folder name]) or 최상위 폴터 하위 파일 및 폴더 삭제(rm [-rf *])
+1. svn에 있는 file들 불러오기 (svn co [address] --username [계정명])
+2. (※필요시)root 계정으로 들어가서 server.xml을 변경해야 한다. => 경로가 변경되었을 경우 또는 DB 계정이 변경되었을 경우 등등 다양하다.
+3. IDE에서 package를 진행 => 여기서 maven으로 받은 class와 java로 컴파일 한 class를 만들어 web-inf에 넣어줘야 한다.
+4. server restart하면 끝
