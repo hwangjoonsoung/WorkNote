@@ -1,33 +1,30 @@
-import javax.xml.bind.SchemaOutputResolver;
-import java.io.BufferedReader;
-import java.io.BufferedWriter;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
-import java.util.Date;
-import java.util.LinkedList;
-import java.util.Scanner;
-import java.util.Stack;
+import javax.lang.model.element.NestingKind;
+import java.lang.reflect.Constructor;
+import java.util.Arrays;
+import java.util.stream.StreamSupport;
 
-public class testclass {
-    public static void main(String[] args) throws IOException, ParseException {
+public class testclass extends test222222{
+    public static void main(String[] args){
+        testclass.test(1,2,3,4,5,6,7,89,14);
+    }
 
-        Stack list = new Stack();
-        list.add("test1");
-        list.add("test2");
-        list.add("test3");
-        System.out.println(list.push("test Push"));
-        System.out.println(list.add("test add"));
-        System.out.println(list.pop());
-        System.out.println(list.pop());
-        System.out.println(list);
-        System.out.println();
-        String test = "false";
-        System.out.println();
+    static void  test (int ... val){
+        System.out.println(val instanceof  int[]);
+        Arrays.stream(val).forEach(value ->
+                System.out.println(value));
+    }
 
-        String test2= "0123456";
-        System.out.println(test2.substring(0,4));
+
+}
+
+class  test222222 extends test222 {
+    public test222222() {
+        System.out.println("test222222");
+    }
+}
+class  test222 {
+    public test222() {
+        System.out.println("test222");
 
     }
 }

@@ -3,14 +3,62 @@
   <component name="ChangeListManager">
     <list default="true" id="3425c2c3-664d-4ca7-aec8-77bf3862568a" name="Changes" comment="Day 05 25">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/StringJoin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Note/StringJoin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/server/TomcatControllInPutty" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Note/server/TomcatControllInPutty" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/tzzzzz$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/tzzzzz.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Note/tzzzzz.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyRunnableThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyRunnableThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringJoin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringJoin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/UsingGenericInClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/UsingGenericInClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/CallBack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/ClickEnventBubbling.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/CompareToDate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/DatePickerError.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/DateTimePicker_config.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/DifferentWithPushAndPopInStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/DummyClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/EditHashMapDataUsingLamda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/InstanceOfClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/NullCheckWithOptional.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/NumberCommaUseJava.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/Reflash.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/SynchronizedInJava.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/TimeCompare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/TipOfUsingLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/UsingGenericInClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/ajaxErrorControll.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/attrAndProp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/fileRename.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/getPkAferInsert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/imageResize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/moveLoaction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/redirectPageArea.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/statusChangeUsingButtun.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/transactionalProgramming.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/urlFillter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/view_.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/testclass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Note/testclass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/work/발표논문적용과정" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Note/work/발표논문적용과정" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/CallBack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javadddd/CallBack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/ClickEnventBubbling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javadddd/ClickEnventBubbling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/CompareToDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javadddd/CompareToDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/DatePickerError.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javadddd/DatePickerError.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/DateTimePicker_config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javadddd/DateTimePicker_config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/DifferentWithPushAndPopInStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javadddd/DifferentWithPushAndPopInStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/EditHashMapDataUsingLamda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javadddd/EditHashMapDataUsingLamda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/HttpOnJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javadddd/HttpOnJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/NullCheckWithOptional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javadddd/NullCheckWithOptional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/NumberCommaUseJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javadddd/NumberCommaUseJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Reflash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javadddd/Reflash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/SynchronizedInJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javadddd/SynchronizedInJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/TimeCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javadddd/TimeCompare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/TipOfUsingLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javadddd/TipOfUsingLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/UsingGenericInClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javadddd/UsingGenericInClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/ajaxErrorControll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javadddd/ajaxErrorControll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/attrAndProp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javadddd/attrAndProp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/fileRename.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javadddd/fileRename.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/getPkAferInsert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javadddd/getPkAferInsert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/imageResize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javadddd/imageResize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/moveLoaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javadddd/moveLoaction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/redirectPageArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javadddd/redirectPageArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/statusChangeUsingButtun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javadddd/statusChangeUsingButtun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/transactionalProgramming.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javadddd/transactionalProgramming.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/urlFillter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javadddd/urlFillter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/view_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javadddd/view_.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/testclass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testclass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +68,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Kotlin File" />
+        <option value="HTML File" />
         <option value="JavaScript File" />
         <option value="Class" />
       </list>
@@ -48,26 +96,26 @@
     <option name="flattenPackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/workspace/cricit_conf/kciconf&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/workspace/cricit/kicem",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editing.templates"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\crew2022\Desktop\intelliJ\Note\src\server" />
@@ -81,14 +129,7 @@
       <recent name="C:\Users\crew2022\Desktop\intelliJ\Note\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.testclass">
-    <configuration name="EnumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EnumTest" />
-      <module name="Note" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.javadddd.UsefulStringClassMethid">
     <configuration name="StringJoin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringJoin" />
       <module name="Note" />
@@ -102,9 +143,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
+    <configuration name="UsefulStringClassMethid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java.UsefulStringClassMethid" />
       <module name="Note" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="javadddd.UsefulStringClassMethid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javadddd.UsefulStringClassMethid" />
+      <module name="Note" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javadddd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -125,19 +185,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.UsefulStringClassMethid" />
+      <item itemvalue="Application.javadddd.UsefulStringClassMethid" />
       <item itemvalue="Application.testclass" />
-      <item itemvalue="Application.EnumTest" />
       <item itemvalue="Application.StringJoin" />
       <item itemvalue="Application.tzzzzz" />
-      <item itemvalue="Application.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.javadddd.UsefulStringClassMethid" />
+        <item itemvalue="Application.UsefulStringClassMethid" />
         <item itemvalue="Application.testclass" />
         <item itemvalue="Application.tzzzzz" />
         <item itemvalue="Application.StringJoin" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.EnumTest" />
       </list>
     </recent_temporary>
   </component>
@@ -335,6 +395,23 @@
       <workItem from="1698219285788" duration="5600000" />
       <workItem from="1698391595683" duration="2434000" />
       <workItem from="1698621752130" duration="45000" />
+      <workItem from="1698623583911" duration="80000" />
+      <workItem from="1698651614115" duration="1114000" />
+      <workItem from="1698709673919" duration="670000" />
+      <workItem from="1698733322796" duration="3079000" />
+      <workItem from="1698898378946" duration="3328000" />
+      <workItem from="1698972334814" duration="182000" />
+      <workItem from="1699342001358" duration="964000" />
+      <workItem from="1699514226453" duration="3514000" />
+      <workItem from="1699860223806" duration="602000" />
+      <workItem from="1699929870381" duration="926000" />
+      <workItem from="1700204414271" duration="604000" />
+      <workItem from="1700443897109" duration="2914000" />
+      <workItem from="1700453134260" duration="2826000" />
+      <workItem from="1700549661675" duration="3597000" />
+      <workItem from="1700553465943" duration="1218000" />
+      <workItem from="1700555047889" duration="2303000" />
+      <workItem from="1701161758978" duration="1259000" />
     </task>
     <task id="LOCAL-00001" summary="Day 03 29">
       <created>1680076933195</created>
@@ -365,5 +442,9 @@
     <MESSAGE value="Day 03 29" />
     <MESSAGE value="Day 05 25" />
     <option name="LAST_COMMIT_MESSAGE" value="Day 05 25" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

@@ -3,7 +3,7 @@
 과정 :
 1. excel 로 쿼리를 만드는데 가장 먼저 해야 할것은 programs table에 해당 프로그램을 먼저 넣어야 한다.
 2. excel 로 만든 쿼리를 해당 table에 update를 해본다.
-3. 확인 후 정상적으로 들어 갔으면 논문에 page를 넣어줘야 한다.
+3. 확인 후 정상적으로 들어 갔으면 논문에 page를 넣어줘야 한다. (paging 작업)
 4. 여기서 page는 AddPageNumber controller를 이용해서 page를 넣을 수 있다.
 4-1 : jetty 서버는 실서버에 붙어야 한다. DB에서 정보를 가져와야 하기 때문에
 5. page가 정상적으로 들어간 것을 확인하고 서버에 올려주면 끝
