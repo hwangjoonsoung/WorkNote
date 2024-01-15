@@ -1,0 +1,36 @@
+아래가 복사 붙여널기 해서 각각 사용하면 된다.
+amount는 결제의 총 금액
+orderID는 readomString
+ordername은 상품명
+customerName은 결제자 이름
+successUrl = 성공시 이동할 url
+faulUrl = 실패시 이동할 url
+
+성공하던 실패하던 MembershipPayRequestReturn로 이동
+servlet으로 MembershipPayAcceptController http통신을 진행하는데 여기서 성공과 실패 여부를 MembershipTossPayRequestReturn.jsp로 return한다.
+그러면 MembershipTossPayRequestReturn에서 결과값에 다른 과정을 진행한다.
+
+<script src="https://js.tosspayments.com/v1/payment"></script>
+<script>
+    //var clientKey = 'test_ck_YZ1aOwX7K8m7aKJWkN9VyQxzvNPG' //테스트 환경 클라이언트 키
+    var clientKey = 'live_ck_lpP2YxJ4K879MAEXEw0VRGZwXLOb' //라이브 환경 클라이언트 키
+
+    var tossPayments = TossPayments(clientKey)
+    var button = document.getElementById('payment-button')
+    const url = new URL(window.location.href);
+    const originUrl= url.origin;
+    let fullSuccessUrl =originUrl+'/payment/member/MembershipPayRequestReturn.jsp?resultString=success&compareOrderId=<%=orderId%>&comparePrice=<%=price%>&_is_join=<%=_is_join%>';
+    let fullFailUrl=originUrl+ '/payment/member/MembershipPayRequestReturn.jsp?resultString=fail'
+    button.addEventListener('click', function () {
+        tossPayments.requestPayment('카드', {
+            amount: '<%=tot_won%>',
+            orderId: '<%=orderId%>', //주문 고유번호패턴 (DB pk+"_"+uuid)
+            orderName: '<%=orderTitle%>',
+            customerName: '<%=username%>', //납부자 이름
+            //토스 결제 성공하는 경우 redirect하는 ur
+            successUrl: fullSuccessUrl,
+            //토스 결제 오류하는 경우 redirect하는 url
+            failUrl: fullFailUrl,
+        })
+    })
+</script>

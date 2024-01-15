@@ -1,0 +1,60 @@
+1. 시작은 다음 form tag에서 시작한다.(name을 확인하면 대충 알수 있음)
+2. 신용카드 버튼을 누르면 결제 페이지 호출 함수가 실행된다.
+3. 결제를 순탄하게 진행하면 allat_approval.jsp로 이동하여 api로 결제를 진행한다.
+4. 이후 정상적이면 db update를 해준다.
+
+<!-- 가맹점 URL이 http일 경우 http처리, 실제 오픈시 가맹점 MID로 stdpay로 처리 -->
+<script type="text/javascript" src="https://tx.allatpay.com/common/AllatPayM.js"></script>
+<script language=Javascript>
+  // 결제페이지 호출
+  function approval(sendFm) {
+    Allat_Mobile_Approval(sendFm,0,0);
+  }
+
+  // 결과값 반환( receive 페이지에서 호출 )
+  function approval_submit(result_cd,result_msg,enc_data) {
+
+    Allat_Mobile_Close();
+
+    if( result_cd != '0000' ){
+      alert(result_cd + " : " + result_msg);
+    } else {
+      sendFm.allat_enc_data.value = enc_data;
+
+      sendFm.action = "allat_approval.jsp";
+      sendFm.method = "post";
+      sendFm.target = "_self";
+      sendFm.submit();
+    }
+  }
+
+  //ADDED START
+  window.onunload = refreshParent;
+  function refreshParent() {
+    window.opener.location.reload();
+  }
+  //ADDED END
+
+</script>
+<input class="btn btn-primary mg-r10" type="button" name="btn_card_pay" value="신용카드" onclick="javascript:approval(document.sendFm)">
+<form name="sendFm"  method=POST action="allat_approval.jsp">
+  <input type="hidden" name="allat_shop_id" value="kicaspacer">
+  <input type="hidden" name="allat_order_no" value="<%=pay_val%>">
+  <input type="hidden" name="allat_amt" value="<%=tot_won%>">
+  <input type="hidden" name="allat_pmember_id" value="<%=UserNum%>">
+  <input type="hidden" name="allat_product_cd" value="<%=paynames%>">
+  <input type="hidden" name="allat_product_nm" value="<%=paynames%>">
+  <input type="hidden" name="allat_buyer_nm" value="<%=UserName%>">
+  <input type="hidden" name="allat_recp_nm" value="<%=UserName%>">
+  <input type="hidden" name="allat_recp_addr" value="서울특별시 서초구 효령로 87 (방배동 917-9) 건축센터 204호">
+  <input type="hidden" name="shop_receive_url" value="<%=siteDomain%>/allat_approval.jsp">
+  <input type=hidden name=allat_enc_data value=''>
+  <input type=hidden name=allat_encode_type value='U'>
+  <input type=hidden name="allat_email_addr" value="<%=userEmail%>">
+  <input type="hidden" name="allat_tax_yn" value="N">
+  <input type="hidden" name="allat_test_yn" value="Y">
+  <input type="hidden" name="allat_bank_yn" value="Y">
+  <input type="hidden" name="allat_vbank_yn" value="N">
+  <input type="hidden" name="allat_autoscreen_yn" value="Y">
+
+</form>

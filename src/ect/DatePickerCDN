@@ -1,6 +1,9 @@
+    -- essential
     <script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/locale/ko.js"></script>
-    <script src="/bower_components/formvalidation/dist/js/formValidation.min.js"></script>
-    <script src="/bower_components/formvalidation/dist/js/framework/bootstrap.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/bootstrap-datetimepicker/3.1.4/js/bootstrap-datetimepicker.min.js"></script>
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/bootstrap-datetimepicker/3.1.4/css/bootstrap-datetimepicker.min.css">
+
+    -- optional
+    <script src="/bower_components/formvalidation/dist/js/formValidation.min.js"></script>
+    <script src="/bower_components/formvalidation/dist/js/framework/bootstrap.min.js"></script>
