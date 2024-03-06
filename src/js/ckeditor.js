@@ -10,3 +10,9 @@ ex)  CKEDITOR.instances.[texteara id값이 들어가야함].updateElement();
         }
 
  */
+
+if(confirm(msg)){
+    window.top.location.href = '생성될 페이지'
+}else{
+    window.top.location.href = '기존'
+}

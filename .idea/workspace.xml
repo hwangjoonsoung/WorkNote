@@ -2,11 +2,83 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3425c2c3-664d-4ca7-aec8-77bf3862568a" name="Changes" comment="Day 05 25">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/ca8162c62f83b7a9284e2dccc9dd7b6517018fed" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/ca8162c62f83b7a9284e2dccc9dd7b6517018fed" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Note.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Note.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/Apple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/Banana.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/Box.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/CallBack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/ClickEnventBubbling.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/CompareToDate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/DatePickerError.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/DateTimePicker_config.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/DifferentWithPushAndPopInStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/DummyClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/EditHashMapDataUsingLamda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/InstanceOfClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/NullCheckWithOptional.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/NumberCommaUseJava.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/Reflash.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/SynchronizedInJava.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/TimeCompare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/TipOfUsingLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/UsefulStringClassMethid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/UseingStringBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/UsingGenericInClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/UsingGenericInClass2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/ajaxErrorControll.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/attrAndProp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/fileRename.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/getPkAferInsert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/imageResize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/moveLoaction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/redirectPageArea.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/statusChangeUsingButtun.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/transactionalProgramming.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/urlFillter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/java/view_.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/js/ckeditor.js" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Note/js/ckeditor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/linux/API" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Note/linux/API" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/sql/tableBackup.sql" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Note/sql/tableBackup.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/test/Company.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Note/test/Company.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/test/EnumClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Note/test/EnumClass.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Note/test/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Note/test/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/work/UploadFIleWithNoAuth" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Note/work/UploadFIleWithNoAuth" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sql/tableBackup.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/sql/tableBackup.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/CallBack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/CallBack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/ClickEnventBubbling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/ClickEnventBubbling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/CompareToDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/CompareToDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/DatePickerError.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/DatePickerError.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/DateTimePicker_config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/DateTimePicker_config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/DifferentWithPushAndPopInStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/DifferentWithPushAndPopInStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/EditHashMapDataUsingLamda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/EditHashMapDataUsingLamda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/HttpOnJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/HttpOnJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/NullCheckWithOptional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/NullCheckWithOptional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/NumberCommaUseJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/NumberCommaUseJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Reflash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/Reflash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/SynchronizedInJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/SynchronizedInJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/TimeCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/TimeCompare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/TipOfUsingLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/TipOfUsingLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/UsefulStringClassMethid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/UsefulStringClassMethid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/UseingStringBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/UseingStringBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/UsingGenericInClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/UsingGenericInClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/UsingGenericInClass2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/UsingGenericInClass2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/ajaxErrorControll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/ajaxErrorControll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/attrAndProp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/attrAndProp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/fileRename.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/fileRename.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/getPkAferInsert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/getPkAferInsert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/imageResize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/imageResize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/moveLoaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/moveLoaction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/redirectPageArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/redirectPageArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/statusChangeUsingButtun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/statusChangeUsingButtun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/transactionalProgramming.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/transactionalProgramming.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/urlFillter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/urlFillter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/view_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/view_.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/HowToUseBootstrapDataField.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/HowToUseBootstrapDataField.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/ckeditor.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/ckeditor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linux/API" beforeDir="false" afterPath="$PROJECT_DIR$/src/linux/API" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,10 +93,10 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
-        <option value="JavaScript File" />
         <option value="Enum" />
         <option value="HTML File" />
         <option value="Class" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -57,7 +129,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/crew2022/Desktop/intelliJ/Note/src/payment/allat&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/crew2022/Desktop/intelliJ/실전자바/java-basic&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
@@ -100,14 +172,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
-      <module name="Note" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UsefulStringClassMethid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java.UsefulStringClassMethid" />
+    <configuration name="StringToDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java.StringToDate" />
       <module name="Note" />
       <extension name="coverage">
         <pattern>
@@ -119,12 +185,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java.UsefulStringClassMethid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java.UsefulStringClassMethid" />
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <module name="Note" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="javaclass.StringToDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaclass.StringToDate" />
       <module name="Note" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java.*" />
+          <option name="PATTERN" value="javaclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,19 +226,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.StringToDate" />
+      <item itemvalue="Application.javaclass.StringToDate" />
       <item itemvalue="Application.test" />
       <item itemvalue="Application.Note" />
-      <item itemvalue="Application.java.UsefulStringClassMethid" />
-      <item itemvalue="Application.UsefulStringClassMethid" />
       <item itemvalue="Application.test.Company" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.test" />
+        <item itemvalue="Application.javaclass.StringToDate" />
+        <item itemvalue="Application.StringToDate" />
         <item itemvalue="Application.Note" />
         <item itemvalue="Application.test.Company" />
-        <item itemvalue="Application.java.UsefulStringClassMethid" />
-        <item itemvalue="Application.UsefulStringClassMethid" />
       </list>
     </recent_temporary>
   </component>
@@ -407,7 +479,25 @@
       <workItem from="1705647505365" duration="639000" />
       <workItem from="1705889816427" duration="8407000" />
       <workItem from="1706080437492" duration="3194000" />
-      <workItem from="1706170730920" duration="117000" />
+      <workItem from="1706170730920" duration="1210000" />
+      <workItem from="1706227551626" duration="3416000" />
+      <workItem from="1706491502982" duration="6967000" />
+      <workItem from="1706598923562" duration="923000" />
+      <workItem from="1706680331088" duration="2894000" />
+      <workItem from="1706850071402" duration="1005000" />
+      <workItem from="1707099224885" duration="6754000" />
+      <workItem from="1707182221899" duration="2209000" />
+      <workItem from="1707293256805" duration="306000" />
+      <workItem from="1707803840547" duration="818000" />
+      <workItem from="1707983817193" duration="2174000" />
+      <workItem from="1708068647326" duration="1348000" />
+      <workItem from="1708393144914" duration="577000" />
+      <workItem from="1708473961506" duration="11411000" />
+      <workItem from="1708927056159" duration="8077000" />
+      <workItem from="1709009667202" duration="3073000" />
+      <workItem from="1709094973125" duration="1354000" />
+      <workItem from="1709184025183" duration="2143000" />
+      <workItem from="1709614623671" duration="2140000" />
     </task>
     <task id="LOCAL-00001" summary="Day 03 29">
       <created>1680076933195</created>
@@ -438,6 +528,17 @@
     <MESSAGE value="Day 03 29" />
     <MESSAGE value="Day 05 25" />
     <option name="LAST_COMMIT_MESSAGE" value="Day 05 25" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/test.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
