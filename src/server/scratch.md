@@ -9,7 +9,7 @@
 - 분석 및 리포팅: 테스트 결과를 분석하고 리포트를 작성할 수 있다.
 
 ## 구조
-![img.png](img.png)
+![img.png](img.png)<br>
 0. agent와 ngrinder가 켜져 있는 상태
 1. user가 작성한 test script를 run
 2. run 하는 순간 consoleManager에서 single console 생성
@@ -24,6 +24,7 @@
   - koreatest.cric.kr
   - 공지사항 입력
 - script
+- ![img_5.png](img_5.png)
 - ```java
     @RunWith(GrinderRunner)
     class TestRunner {
@@ -96,6 +97,7 @@
   - 스레드 : 37
   - Ramp-Up : 사용
   - 테스트 기간 : 2분
+![img_6.png](img_6.png)
 - 결과
   - ![img_2.png](img_2.png)
 - 리펙터링
