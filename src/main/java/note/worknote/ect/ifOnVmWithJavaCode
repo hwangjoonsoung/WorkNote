@@ -1,0 +1,5 @@
+#if ($request.getSession().getAttribute('UserNum')!="1")
+        $import.read('/papers/index.jsp')
+#else
+        $import.read('/papers/corr_index.jsp')
+#end
