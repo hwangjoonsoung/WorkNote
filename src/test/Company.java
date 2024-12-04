@@ -1,9 +1,9 @@
 package test;
 
 
-enum EnumClass{
+enum EnumClass {
 
-//        AF("Afghanistan (아프가니스탄)"),
+    //        AF("Afghanistan (아프가니스탄)"),
 //        AX("Aland Islands (올란드 제도)"),
 //        AL("Albania (알바니아)"),
 //        DZ("Algeria (알제리)"),
@@ -231,17 +231,17 @@ enum EnumClass{
 //        US("United States (미국)"),
 //        UM("United States Minor Outlying Islands (미국령 군소 제도)"),
 //        UY("Uruguay (우루과이)"),
-        UZ("Uzbekistan (우즈베키스탄)"),
-        VU("Vanuatu (바누아투)"),
-        VE("Venezuela (베네수엘라)"),
-        VN("Viet Nam (베트남)"),
-        VG("Virgin Islands, British (영국령 버진아일랜드)"),
-        VI("Virgin Islands, U.S. (미국령 버진아일랜드)"),
-        WF("Wallis And Futuna (월리스 푸투나)"),
-        EH("Western Sahara (서사하라)"),
-        YE("Yemen (예멘)"),
-        ZM("Zambia (잠비아)"),
-        ZW("Zimbabwe (짐바브웨)");
+    UZ("Uzbekistan (우즈베키스탄)"),
+    VU("Vanuatu (바누아투)"),
+    VE("Venezuela (베네수엘라)"),
+    VN("Viet Nam (베트남)"),
+    VG("Virgin Islands, British (영국령 버진아일랜드)"),
+    VI("Virgin Islands, U.S. (미국령 버진아일랜드)"),
+    WF("Wallis And Futuna (월리스 푸투나)"),
+    EH("Western Sahara (서사하라)"),
+    YE("Yemen (예멘)"),
+    ZM("Zambia (잠비아)"),
+    ZW("Zimbabwe (짐바브웨)");
 
     public String getS() {
         return this.s;
@@ -259,8 +259,8 @@ enum EnumClass{
 
     }
 
-    public static String getName(){
-        return  EnumClass.EH.getS();
+    public static String getName() {
+        return EnumClass.EH.getS();
     }
     //진짜 스트림을 사용해야 할까?
 
@@ -269,7 +269,7 @@ enum EnumClass{
     }*/
 
     //code를 통해 country option code 생성
-    public static void test(){
+    public static void test() {
         for (EnumClass value : EnumClass.values()) {
             System.out.println(value);
         }
@@ -279,15 +279,14 @@ enum EnumClass{
     //code를 통해 country option code 생성 with class style
 
 
-
-
-
 }
 
 public class Company {
 
     public static void main(String[] args) {
-        System.out.println(EnumClass.getName());;
+        long asdas = 1000;
+        int asdasda = (int) asdas;
+
 
     }
 }

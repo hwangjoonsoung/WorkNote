@@ -1,0 +1,11 @@
+
+Y
+java:S3066ú"<Lower the visibility of this setter or remove it altogether.(ÂËÄ|8ŞÓìÛ€2
+K
+java:S1172‚"(Remove this unused method parameter "s".(µÏ¾»üÿÿÿÿ8æÓìÛ€2
+^	java:S125Œ"<This block of commented-out lines of code should be removed.(ç»§ıÿÿÿÿ8çÓìÛ€2
+M	java:S106’"+Replace this use of System.out by a logger.(‚é€Şûÿÿÿÿ8çÓìÛ€2
+W
+java:S1854 ";Remove this useless assignment to local variable "asdasda".(©Ù58§°íÛ€2
+H
+java:S1481 ",Remove this unused "asdasda" local variable.(©Ù58¨°íÛ€2

@@ -1,6 +1,4 @@
 
-B
-src/test/test.java,c\a\ca8162c62f83b7a9284e2dccc9dd7b6517018fed
 G
 src/sql/tableBackup.sql,b\5\b5d6779d169aaa9be0be49bf68693e42f182cc5d
 8
@@ -51,3 +49,89 @@ C
 src/git/git,2\8\28f35d4f7f01538f90c82d403b194782ca37a0b5
 C
 src/ect/NotWrite.md,6\b\6bb620ec5f00bc087bf83d5557a0a06399b6bf4c
+H
+src/server/TomcatAddAuth,a\6\a6e4eeaee11d33ab05334372c928cae57b91a048
+Z
+*src/javaclass/UsefulStringClassMethid.java,5\6\56cec8583a3f787a5d342fee7a40639f871993cc
+U
+%src/javaclass/NumberCommaUseJava.java,b\1\b105a19aa527dae1b289f18cc33d1890b4fcc86d
+B
+src/sql/status.sql,c\f\cf675495b9e3687c2720fcf85775b0325d77aa92
+a
+1src/javaclass/DifferentWithPushAndPopInStack.java,1\0\10770f9d7f528ad2543eff466dc15fe1b3f1cb4b
+I
+src/sql/date_function.sql,9\0\9020fe0b6678a22a107e12e525f3b2c0a96a98ce
+P
+ src/sql/queryPerformenceTest.sql,8\4\8441182be00339947f11c7f85014a34e27e5548d
+T
+$src/js/HowToUseBootstrapDataField.js,c\d\cd0e7a0b8185f0d19e40ca4eb96b013c2dd5295b
+R
+"src/sql/how_to_DB_table_backup.sql,3\7\374dbfde5f4d7b646b3fa52f66ebd964b2ecbe2e
+L
+src/sql/mysql_autocommit.sql,9\d\9d05c2f5c6f155d390a731795d2e6f6dcce01229
+K
+src/sql/dumpingDatabase.sql,9\a\9a787fa1bbbd863ffbcb93ab2ebe79ce3ff0f410
+M
+src/js/applyformvalidation.js,e\6\e638de0b6b51a3b01f3d2deba3fe5f1f44e51cb5
+I
+src/js/입력값제어.js,c\f\cf444356e24d2c98c6d7b252f27fb0c61913228a
+Q
+!src/js/controllefromvaildation.js,c\3\c3e159ec9d1a99934742079de0b2b9aea1d7267a
+Q
+!src/js/optionalfromvaildation.jsp,c\d\cd157b46f0241d7dd63d6f9a163c3aa3923580a0
+O
+src/javaclass/moveLoaction.java,c\a\cae74ccb470a578b86d2bbe7a2b5a5864490b9ca
+P
+ src/server/TomcatControllInPutty,6\f\6f374f3fc9d320e018199aef22eadb2e30b945cf
+]
+-src/sql/AddMembershipFeeEveryMonth(kicem).sql,b\c\bceaffd8095d2adaa492068aef5e5c0d4c180edb
+O
+src/papers/papers_status_update,e\d\edcdcbdb9c942283b7e0731f5c47d28ce06c49c7
+F
+src/test/textfile.text,4\7\476591c3ee6b445976d68cfd85e66d67ed08bd18
+C
+src/work/TAbsmailer,5\a\5afa0d44c0bd7438dea7986af6f9ab65fe70df62
+H
+src/js/getValueByName.js,9\6\96ba34fad5ea30206fa7552d7238dfe5e729a3df
+S
+#src/payment/allat/_pay_approval.jsp,e\d\ed0d01d35513594dbb6a063087d4b7010f68d6f7
+S
+#src/payment/allat/allat_receive.jsp,b\7\b79a9bc68c283e3bffc0ee64e3bcb08ef0c9a93a
+T
+$src/payment/allat/allat_approval.jsp,6\e\6ee2b6140ca41d0314a62158671e31b243859d18
+R
+"src/payment/allat/user_due_pay.jsp,0\a\0a9ae8b257bf0b0e6ad673ebb85e874b3280232b
+H
+src/javaclass/view_.java,b\1\b198053e08a304bb59ecd174eda892acd7bc5a6f
+C
+src/js/DataTable.js,1\6\1645d5d670eda4d968cbcd3729c26b68862a71a0
+@
+src/js/getUrl.js,e\0\e09ef9b53be069fb7f29d430f9fe7f5ca97d3559
+P
+ src/js/HowToUseJavascriptThis.js,e\a\ea7770b74c31997e8b18deb85992217c3786b800
+S
+#src/js/JqueryAddeventUseingClass.js,e\f\ef48edbb59653ef1463eef3eeba59fc6b2c6f055
+K
+src/js/NumberCommaUserJS.js,8\3\833a2694a0d6c842292dfcf6ee0b16a20893e264
+S
+#src/js/defferencewithpropandattr.js,2\6\26f2b9ac7e524ac858eb89491f4e160ecfa71755
+P
+ src/js/formvaildationcallback.js,f\3\f393a9476f10b4efb36c93be54f9bf1ff0fc742d
+R
+"src/javaclass/getPkAferInsert.java,c\4\c4d59fc094563fcbcbdd2ade5bcc8f683370ff59
+K
+src/test/boxing/Boxing.java,6\0\60df7dda5376e90149289fc09733559f9672db00
+R
+"src/test/boxing/BoxingInteger.java,3\c\3c52acb85e05f1a993de9ab4c7bf90c345b70b3b
+S
+#src/test/boxing/AutoBoxingTest.java,d\b\db9a6a6eacfbe5c96c5df5b94ecd7f3d2e11f077
+[
++src/test/immutable/ImmutableCollection.java,c\c\ccbd2f888e29bedb9d4d0972ff2d5a48dcbafe98
+N
+src/test/immutable/Amount.java,0\b\0b4be59d1b1525566cd3115edc5e7f593cee6d28
+G
+src/test/TestClass.java,a\a\aacd0cd798aa148626101f7b92537edb6ff54ec5
+\
+,src/test/immutable/ImmutableCollection2.java,c\b\cbdc1a36fad27d9087a70030a701311f7acef6ae
+Z
+*src/test/immutable/ImmutableReference.java,4\f\4f6e3d02466da4120ab48f5357d84e7ac9499ffc

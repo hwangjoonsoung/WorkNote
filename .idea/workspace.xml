@@ -1,85 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3425c2c3-664d-4ca7-aec8-77bf3862568a" name="Changes" comment="Day 05 25">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/ca8162c62f83b7a9284e2dccc9dd7b6517018fed" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/ca8162c62f83b7a9284e2dccc9dd7b6517018fed" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/c/ac53c579526dca26ed3609195ca1b87839ea1114" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/c/ac53c579526dca26ed3609195ca1b87839ea1114" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/ca8162c62f83b7a9284e2dccc9dd7b6517018fed" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/a/ca8162c62f83b7a9284e2dccc9dd7b6517018fed" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Note.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Note.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/java/Apple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/java/Banana.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/java/Box.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/java/CallBack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/java/ClickEnventBubbling.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/java/CompareToDate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/java/DatePickerError.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/java/DateTimePicker_config.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/java/DifferentWithPushAndPopInStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/java/DummyClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/java/EditHashMapDataUsingLamda.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/java/InstanceOfClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/java/NullCheckWithOptional.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/java/NumberCommaUseJava.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/java/Reflash.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/java/SynchronizedInJava.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/java/TimeCompare.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/java/TipOfUsingLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/java/UsefulStringClassMethid.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/java/UseingStringBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/java/UsingGenericInClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/java/UsingGenericInClass2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/java/ajaxErrorControll.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/java/attrAndProp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/java/fileRename.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/java/getPkAferInsert.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/java/imageResize.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/java/moveLoaction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/java/redirectPageArea.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/java/statusChangeUsingButtun.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/java/transactionalProgramming.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/java/urlFillter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/java/view_.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/js/ckeditor.js" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Note/js/ckeditor.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/linux/API" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Note/linux/API" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/sql/tableBackup.sql" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Note/sql/tableBackup.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/js/formvalidation.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Note/test/Company.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Note/test/Company.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/test/EnumClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Note/test/EnumClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/test/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Note/test/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/CallBack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/CallBack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/ClickEnventBubbling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/ClickEnventBubbling.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/CompareToDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/CompareToDate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/DatePickerError.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/DatePickerError.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/DateTimePicker_config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/DateTimePicker_config.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/DifferentWithPushAndPopInStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/DifferentWithPushAndPopInStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/EditHashMapDataUsingLamda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/EditHashMapDataUsingLamda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/HttpOnJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/HttpOnJava.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/NullCheckWithOptional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/NullCheckWithOptional.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/NumberCommaUseJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/NumberCommaUseJava.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/Reflash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/Reflash.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/SynchronizedInJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/SynchronizedInJava.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/TimeCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/TimeCompare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/TipOfUsingLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/TipOfUsingLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/UsefulStringClassMethid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/UsefulStringClassMethid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/UseingStringBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/UseingStringBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/UsingGenericInClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/UsingGenericInClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/UsingGenericInClass2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/UsingGenericInClass2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/ajaxErrorControll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/ajaxErrorControll.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/attrAndProp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/attrAndProp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/fileRename.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/fileRename.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/getPkAferInsert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/getPkAferInsert.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/imageResize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/imageResize.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/moveLoaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/moveLoaction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/redirectPageArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/redirectPageArea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/statusChangeUsingButtun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/statusChangeUsingButtun.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/transactionalProgramming.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/transactionalProgramming.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/urlFillter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/urlFillter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/view_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/view_.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/HowToUseBootstrapDataField.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/HowToUseBootstrapDataField.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/ckeditor.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/ckeditor.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linux/API" beforeDir="false" afterPath="$PROJECT_DIR$/src/linux/API" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Note/test/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/formvalidation.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/applyformvalidation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Company.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Company.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,8 +32,8 @@
         <option value="Kotlin File" />
         <option value="Enum" />
         <option value="HTML File" />
-        <option value="Class" />
         <option value="JavaScript File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -115,38 +52,51 @@
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2LiUbh0b6qV0lyeL7eaUcin7aNx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="sortByType" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/crew2022/Desktop/intelliJ/실전자바/java-basic&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "create.test.in.the.same.root": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/workspace/cricit/kiid",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "copyright",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\crew2022\Desktop\intelliJ\Note\src\js" />
       <recent name="C:\Users\crew2022\Desktop\intelliJ\Note\src\payment\allat" />
       <recent name="C:\Users\crew2022\Desktop\intelliJ\Note\src\payment\toss" />
       <recent name="C:\Users\crew2022\Desktop\intelliJ\Note\src\server" />
@@ -164,20 +114,39 @@
       <recent name="payment.toss" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.test">
-    <configuration name="Note" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Note" />
+  <component name="RunManager" selected="Application.DeepCopyShallowcopy">
+    <configuration name="AutoBoxingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.autoboxingperformencetest.boxing.AutoBoxingTest" />
       <module name="Note" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.autoboxingperformencetest.boxing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringToDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java.StringToDate" />
+    <configuration name="DeepCopyShallowcopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaclass.DeepCopyShallowcopy" />
       <module name="Note" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java.*" />
+          <option name="PATTERN" value="javaclass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.TestClass" />
+      <module name="Note" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,12 +160,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="javaclass.StringToDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaclass.StringToDate" />
+    <configuration name="countryClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.countryClass" />
       <module name="Note" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaclass.*" />
+          <option name="PATTERN" value="test.autoboxingperformencetest.boxing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -209,7 +178,7 @@
       <module name="Note" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="test.autoboxingperformencetest.boxing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -217,30 +186,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test.Company" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.Company" />
-      <module name="Note" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
-      <item itemvalue="Application.StringToDate" />
-      <item itemvalue="Application.javaclass.StringToDate" />
-      <item itemvalue="Application.test" />
-      <item itemvalue="Application.Note" />
-      <item itemvalue="Application.test.Company" />
+      <item itemvalue="Application.DeepCopyShallowcopy" />
+      <item itemvalue="Application.TestClass" />
+      <item itemvalue="Application.test.boxing.AutoBoxingTest" />
+      <item itemvalue="Application.test.countryClass" />
+      <item itemvalue="Application.test.test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.javaclass.StringToDate" />
-        <item itemvalue="Application.StringToDate" />
-        <item itemvalue="Application.Note" />
-        <item itemvalue="Application.test.Company" />
+        <item itemvalue="Application.DeepCopyShallowcopy" />
+        <item itemvalue="Application.TestClass" />
+        <item itemvalue="Application.test.boxing.AutoBoxingTest" />
+        <item itemvalue="Application.test.countryClass" />
+        <item itemvalue="Application.test.test" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -498,6 +468,52 @@
       <workItem from="1709094973125" duration="1354000" />
       <workItem from="1709184025183" duration="2143000" />
       <workItem from="1709614623671" duration="2140000" />
+      <workItem from="1716340175317" duration="2394000" />
+      <workItem from="1716452382296" duration="647000" />
+      <workItem from="1717047073473" duration="2155000" />
+      <workItem from="1718005147191" duration="2250000" />
+      <workItem from="1718080304752" duration="6329000" />
+      <workItem from="1718179439704" duration="791000" />
+      <workItem from="1718784061846" duration="679000" />
+      <workItem from="1719462832403" duration="6947000" />
+      <workItem from="1719881608525" duration="1857000" />
+      <workItem from="1719983457908" duration="643000" />
+      <workItem from="1720074560698" duration="4880000" />
+      <workItem from="1721025179964" duration="959000" />
+      <workItem from="1721094675745" duration="3890000" />
+      <workItem from="1721266596869" duration="2340000" />
+      <workItem from="1721955679810" duration="42000" />
+      <workItem from="1722229832105" duration="602000" />
+      <workItem from="1722302731554" duration="3342000" />
+      <workItem from="1722390181897" duration="598000" />
+      <workItem from="1723007660056" duration="2284000" />
+      <workItem from="1723076242351" duration="6318000" />
+      <workItem from="1723453370232" duration="123000" />
+      <workItem from="1724214166169" duration="14453000" />
+      <workItem from="1724918216352" duration="1535000" />
+      <workItem from="1725002667671" duration="1811000" />
+      <workItem from="1725242204530" duration="3277000" />
+      <workItem from="1725336918584" duration="2480000" />
+      <workItem from="1725353019169" duration="1000" />
+      <workItem from="1725353066007" duration="678000" />
+      <workItem from="1725499616912" duration="605000" />
+      <workItem from="1726192538878" duration="2777000" />
+      <workItem from="1726807026439" duration="2843000" />
+      <workItem from="1727413136378" duration="2224000" />
+      <workItem from="1727849117265" duration="2858000" />
+      <workItem from="1728613559838" duration="617000" />
+      <workItem from="1729061832446" duration="1964000" />
+      <workItem from="1729212883031" duration="650000" />
+      <workItem from="1729476837192" duration="671000" />
+      <workItem from="1731893616637" duration="611000" />
+      <workItem from="1732169715664" duration="982000" />
+      <workItem from="1732172482307" duration="605000" />
+      <workItem from="1732242035794" duration="2207000" />
+      <workItem from="1732244505032" duration="6696000" />
+      <workItem from="1732676167225" duration="2381000" />
+      <workItem from="1732754970772" duration="2685000" />
+      <workItem from="1732848916520" duration="2090000" />
+      <workItem from="1733276225685" duration="7740000" />
     </task>
     <task id="LOCAL-00001" summary="Day 03 29">
       <created>1680076933195</created>
@@ -532,11 +548,10 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/test.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>

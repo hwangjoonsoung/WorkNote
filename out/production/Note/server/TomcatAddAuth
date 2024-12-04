@@ -1,0 +1,2 @@
+1. sudo chown -r tomcat:tomcat notice
+2. sudo chmod 755 [directory name]

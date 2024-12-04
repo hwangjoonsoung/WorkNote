@@ -1,0 +1,11 @@
+
+k
+java:S30149"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(Áù‰íüÿÿÿÿ8Î»£Žµ2
+]	java:S125
+"<This block of commented-out lines of code should be removed.(±”¨íúÿÿÿÿ8€ˆ»µ2
+X	java:S125"<This block of commented-out lines of code should be removed.(÷è™Å8Ì¡»µ2
+X	java:S125"<This block of commented-out lines of code should be removed.(î¯ÔÉ8»Æ´µ2
+G	java:S106,"+Replace this use of System.out by a logger.(ì‰é¯8²ú‚Žµ2
+L	java:S1060"+Replace this use of System.out by a logger.(‡“…Úþÿÿÿÿ8²ú‚Žµ2
+G	java:S106@"+Replace this use of System.out by a logger.(¢ÝÐá8ü¥´µ2
+G	java:S106A"+Replace this use of System.out by a logger.(ÚŽÂâ8ý¥´µ2

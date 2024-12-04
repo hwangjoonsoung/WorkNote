@@ -1,0 +1,4 @@
+case1. 투고자 수정본 미접수 상태로 변경
+
+aik_res_reply_reply_status = 02
+aik_res_reply_reply_admin = 02
