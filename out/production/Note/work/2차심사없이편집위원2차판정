@@ -1,0 +1,19 @@
+select * from chost_tre_0021 a where a.aik_sub_id=202200297 ;
+select * from chost_tre_0031 a where a.aik_sub_id=202200297 ;
+select * from chost_tre_0032 a where a.aik_exa_id in (5921,5964,6015) ;
+
+select * from chost_tre_0021 a where a.aik_sub_id=202400199;
+select * from chost_tre_0031 a where a.aik_sub_id=202400199;
+select * from chost_tre_0032 a where a.aik_exa_id in (8392,8393,9040);
+
+
+
+1. 더미 2차 심사위원 DB insert
+
+2. 해당 심사위원의 2차 심사 추가
+chost_tre_0032.aik_res_result_status = '99'
+chost_tre_0032.aik_res_result_admin = '01'
+chost_tre_0032.aik_res_reply_status = '01'
+chost_tre_0032.aik_res_reply_admin = '02'
+
+3. 편집위원 판정 가능

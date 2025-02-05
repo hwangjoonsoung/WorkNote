@@ -3,18 +3,11 @@ package test;
 public class TestClass {
 
     public static void main(String[] args) throws CloneNotSupportedException {
-        Guest guest = new Guest("name1", 20);
-        Room room1 = new Room("room1", guest);
-        Room room2 = (Room)room1.clone();
-        System.out.println("room1 = " + room1.toString());
-        System.out.println("room2 = " + room2.toString());
 
-        System.out.println(room1.guest.toString());
-        System.out.println(room2.guest.toString());
-        room1.guest.setAge(100);
-        room1.guest.setName("guest1");
-        System.out.println(room1.guest.toString());
-        System.out.println(room2.guest.toString());
+        String gcodes = "'02','03','04','05','06','07','08','09','10','11'";
+
+        System.out.println("join = " + gcodes);
+
     }
 }
 

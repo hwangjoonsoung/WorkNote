@@ -2,15 +2,16 @@
 
 cd /usr/local/letsencrypt
 
+./certbot-auto certonly -a webroot -m cs@cricmail.net -w /home/webcric/kswe/webapp -d kswe.cric.kr
 ./certbot-auto certonly -a webroot -m cs@cricmail.net -w /home/webcric/ieieconf/webapp -d ieieconf.cric.kr
 
 
 
 1-1.인증서파일 권한(777) 부여
 
-/etc/letsencrypt/live/ieieconf.cric.kr/
+/etc/letsencrypt/live/kswe.cric.kr/
 
-/etc/letsencrypt/archive/ieieconf.cric.kr/
+/etc/letsencrypt/archive/kswe.cric.kr/
 
 
 
@@ -26,13 +27,13 @@ cd /usr/local/letsencrypt
 </SSLHostCofig>
 
 <Connector port="8443" protocol="org.apache.coyote.http11.Http11NioProtocol"
-               maxThreads="150" SSLEnabled="true" defaultSSLHostConfigName="ieieconf.cric.kr">
+               maxThreads="150" SSLEnabled="true" defaultSSLHostConfigName="kswe.cric.kr">
         <UpgradeProtocol className="org.apache.coyote.http2.Http2Protocol" />
 
-        <SSLHostConfig hostName="ieieconf.cric.kr" ciphers="!aNULL:kECDH+AESGCM:ECDH+AESGCM:RSA+AESGCM:kECDH+AES:ECDH+AES:RSA+AES" protocols="TLSv1.2">
-            <Certificate certificateKeyFile="/etc/letsencrypt/live/ieieiconf.cric.kr/privkey.pem"
-                         certificateFile="/etc/letsencrypt/live/ieieiconf.cric.kr/cert.pem"
-                         certificateChainFile="/etc/letsencrypt/live/ieieiconf.cric.kr/chain.pem"
+        <SSLHostConfig hostName="kswe.cric.kr" mciphers="!aNULL:kECDH+AESGCM:ECDH+AESGCM:RSA+AESGCM:kECDH+AES:ECDH+AES:RSA+AES" protocols="TLSv1.2">
+                                                                                                       <Certificate certificateKeyFile="/etc/letsencrypt/live/kswe.cric.kr/privkey.pe"
+                         certificateFile="/etc/letsencrypt/live/kswe.cric.kr/cert.pem"
+                         certificateChainFile="/etc/letsencrypt/live/kswe.cric.kr/chain.pem"
                          type="RSA" />
         </SSLHostConfig>
  </Connector>
