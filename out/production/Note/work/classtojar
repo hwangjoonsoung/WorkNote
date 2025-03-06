@@ -1,0 +1,2 @@
+jar cvf mobiliansRA.jar ./com/mobilians/ra_v0004/*.class
+jar cvf [file name] [path]

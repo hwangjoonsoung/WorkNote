@@ -1,8 +1,8 @@
 
 ™
-java:S1130"}Remove the declaration of thrown exception 'java.lang.CloneNotSupportedException', as it cannot be thrown from method's body.(ÂôP8Í–ïÄ2
-G	java:S106	"+Replace this use of System.out by a logger.(œ‹•8ù¼°–Ç2
+java:S1130"}Remove the declaration of thrown exception 'java.lang.CloneNotSupportedException', as it cannot be thrown from method's body.(ÂôP8¶ØÌ Ö2
+G	java:S106"+Replace this use of System.out by a logger.(³µˆü8¸ØÌ Ö2
 o
-java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(™”” 8©Í–ïÄ2
+java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(™”” 8ºØÌ Ö2
 D
-java:S1185"(Remove this method to simply inherit it.(™”” 8©Í–ïÄ2
+java:S1185"(Remove this method to simply inherit it.(™”” 8ºØÌ Ö2

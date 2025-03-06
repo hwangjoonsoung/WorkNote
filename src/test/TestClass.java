@@ -4,10 +4,8 @@ public class TestClass {
 
     public static void main(String[] args) throws CloneNotSupportedException {
 
-        String gcodes = "'02','03','04','05','06','07','08','09','10','11'";
-
-        System.out.println("join = " + gcodes);
-
+        String test= "100000" ;
+        System.out.println(String.format("%,d",Integer.parseInt(test)));
     }
 }
 

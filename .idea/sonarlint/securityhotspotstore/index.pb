@@ -145,3 +145,13 @@ K
 src/js/ajaxDataTypeError.js,2\d\2ddfb47802860647f38275eb2d78b201b94ef45a
 C
 src/work/classtojar,2\0\2072d3b6f1453ee052a17d0b806b7e2ccc9f872b
+?
+src/server/CICD,9\d\9dd2d2ad0da6860dcb32556d51020639a55637cb
+E
+src/server/scratch.md,d\0\d084a61b26579f39d2a2ec422ee215f77a521d36
+S
+#src/work/SubmissionMailDemonSetting,e\7\e744aa3e4c5cfd6fea02474be586ac9c541c3238
+F
+src/work/DomainSetting,6\b\6b8e3eaf547ff67d3e8e620ecf23147f9ea6dbb4
+H
+src/ect/submissionDelete,0\3\03b178ec6cbedb28eef2d90e6ee20315b927e10e
