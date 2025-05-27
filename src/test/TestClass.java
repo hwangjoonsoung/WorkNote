@@ -4,8 +4,11 @@ public class TestClass {
 
     public static void main(String[] args) throws CloneNotSupportedException {
 
-        String test= "100000" ;
-        System.out.println(String.format("%,d",Integer.parseInt(test)));
+
+        String order_id = "MC45MDM3MDI2Njk2MDcx_4353";
+        System.out.println(order_id.indexOf("_")+1);
+        String id = order_id.substring(order_id.indexOf("_")+1);
+        System.out.println("id : "+id);
     }
 }
 

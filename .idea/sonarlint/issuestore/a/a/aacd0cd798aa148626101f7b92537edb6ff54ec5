@@ -1,8 +1,10 @@
 
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÅºúÿÿÿÿ8ŒÒúàî2
 ™
-java:S1130"}Remove the declaration of thrown exception 'java.lang.CloneNotSupportedException', as it cannot be thrown from method's body.(ÂôP8¶ØÌ Ö2
-G	java:S106"+Replace this use of System.out by a logger.(³µˆü8¸ØÌ Ö2
+java:S1130"}Remove the declaration of thrown exception 'java.lang.CloneNotSupportedException', as it cannot be thrown from method's body.(ÂôP8¡Òúàî2
+G	java:S106	"+Replace this use of System.out by a logger.(‹–ßœ8¶–úàî2
+G	java:S106"+Replace this use of System.out by a logger.(İŠ–é8£Òúàî2
 o
-java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(™”” 8ºØÌ Ö2
+java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(™”” 8ù–µ¹ì2
 D
-java:S1185"(Remove this method to simply inherit it.(™”” 8ºØÌ Ö2
+java:S1185"(Remove this method to simply inherit it.(™”” 8ù–µ¹ì2

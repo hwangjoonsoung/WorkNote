@@ -155,3 +155,9 @@ F
 src/work/DomainSetting,6\b\6b8e3eaf547ff67d3e8e620ecf23147f9ea6dbb4
 H
 src/ect/submissionDelete,0\3\03b178ec6cbedb28eef2d90e6ee20315b927e10e
+P
+ src/window_porject/start_porject,e\f\efa7ea6fa36fbc20a91f6d2b05bbff1012a4ef4b
+L
+src/server/SettingTestServer,b\8\b8a95a6908270c7dabbf7e75832f9f420a3e8a49
+;
+src/ect/SVN,7\8\78c92374bff6cadbc9ad55b36a701074312bc889

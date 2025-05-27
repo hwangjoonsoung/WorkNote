@@ -1,0 +1,2 @@
+-- svn checkout할때 특정 폴더 이름으로 생성하는 방법
+svn checkout svn://cric.synology.me/ksnve/trunk/src/main/webapp/ ksnve

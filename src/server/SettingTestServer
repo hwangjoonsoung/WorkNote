@@ -1,0 +1,24 @@
+- domain setting
+1. dnszi login
+2. 호스트 ip 관리에서 subdomian 생성
+
+- proejct + svn setting
+1. svn 생성
+2. workspace에 checkout
+3. 프로젝트에 base project 붙여 넣기
+4. intelliJ를 이용해서 환경설정 정보 수정 및 main page 뜨는지 확인 (ex: 년도)
+5. svn commit
+6. putty로 test server 붙어서 svn update 하는데 경로를 webapp만 update할 수 있도록 수정해서 update
+7. local 에서 project packaging을 하고 ftp 통해 libray를 WEB_INF하위에 class로 이동
+
+- DB setting
+1. base project DB dump
+2. create database
+3. create user
+4. grant user
+5. dump뜬 데이터 넣어주기
+
+- server setting
+1. /opt/tomcat/conf/server.xml  backup
+2. server.xml에 host 추가
+3. restart tomcat
